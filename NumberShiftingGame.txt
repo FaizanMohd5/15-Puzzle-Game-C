@@ -1,3 +1,5 @@
+//PLEASE READ THE ReadMe FILE FIRST
+
 #include<stdio.h>
 #include<time.h>
 void rulesScr();
