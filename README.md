@@ -6,7 +6,7 @@ This project was developed and tested using Code::Blocks IDE. To run the game on
 
 Once you have Code::Blocks installed, you can clone this repository using the following command:
 
-  git clone https://github.com/your-username/15-puzzle-game-c.git
+  >git clone https://github.com/your-username/15-puzzle-game-c.git
   
 After cloning the repository, open the project in Code::Blocks and build and run the 15-puzzle-game.c file.
 
